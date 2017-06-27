@@ -23,8 +23,6 @@ function agregarEstudiante() {
     return newRegistro; 
 }
 
-
-
 function mostrar(estudiante) {
     // TO DO: Completar el template para que muestre las propiedades correctas del estudiante 
     var resultado = "";
